@@ -4,7 +4,7 @@ An LBBD method to integrate rolling stock scheduling and train platforming plan
 
 # Usage Guide
 
-In addition to the Gurobi Optimizer solver and the required Python libraries, this project requires compiling the Cython source file before running the main program.
+In addition to the Gurobi solver and the required Python libraries, this project requires compiling the Cython source file before running the main program.
 
 ## Step 1: Compile Cython Extension
 
